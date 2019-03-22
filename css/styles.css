@@ -1,0 +1,16 @@
+body {
+  background: #E2E1DD;
+}
+
+
+
+h1 {
+  margin-left: 12px;
+  color: slategrey;
+}
+
+.sidebar {
+  float: left;
+  background-color: tan;
+  height: 100%;
+}
