@@ -1,6 +1,7 @@
 body {
   /* background: #E2E1DD; */
   background: #4A4957;
+  margin-right: 10px;
 }
 
 .container {
@@ -34,9 +35,9 @@ h3  {
 .jumbotron {
   width: 100%;
   height: 252px;
-  /* background-image: url(../img/forest.jpeg)
-  background-repeat: no;
-  background-size: cover; */
+  /* background-image: url('img/forest.jpeg');
+  background-repeat: no-repeat;
+  background-size: contain; */
   background-color: #313536;
   margin-left: 0;
   margin-right: 0;
@@ -51,7 +52,6 @@ h3  {
 .panel {
   float: right;
   width: 70%;
-  z-index: 1;
   height: 450px;
   background-color: #757C79;
 }
@@ -96,10 +96,10 @@ ol {
   border-radius: 10px;
 }
 
-#interestpics {
-  width: auto;
-}
-
-.interestpanel {
-  height: 600px;
+.interestpics {
+  width: 70%;
+  height: 600px
+  float: right;
+  border: 1px solid #AC9411;
+  padding: 2px;
 }
