@@ -25,15 +25,25 @@ h2 {
   /* background-image: url(../img/forest.jpeg)
   background-repeat: no;
   background-size: cover; */
-
-
 }
 
 .panel {
   float: right;
   width: 70%;
   z-index: 1;
-  height: 220px;
+  height: 600px;
+}
+
+.special {
+  font-weight: bold;
+  color: #3E4773;
+}
+
+ul {
+  align: left;
+  padding-right: 5px;
+  color: #8189B3;
+
 }
 
 #secondpanel {
@@ -43,7 +53,7 @@ h2 {
 }
 
 .row {
-  height: 30px;
+  height: 150px;
 }
 
 #top {
