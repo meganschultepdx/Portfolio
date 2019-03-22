@@ -15,9 +15,7 @@ This web page will contain links to my GitHub repositories so my work so far in 
 * open in Atom or similar text editor to view code
 * open .html file in browser for web view
 * or you can use this link to view my GH-pages for this project:
-              
-
-
+          meganschultepdx.github.io/Portfolio   
 
 ## Known Bugs
 
@@ -35,6 +33,7 @@ CSS
 
 Bootstrap
 
+## Legal
 
 Copyright (c) 2019 Megan Schulte
 
