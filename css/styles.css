@@ -2,7 +2,10 @@ body {
   background: #E2E1DD;
 }
 
-
+.container {
+  /* margin-left: 30px;
+  margin-right: 10px; */
+}
 
 h1 {
   margin-left: 12px;
@@ -25,13 +28,23 @@ h2 {
   /* background-image: url(../img/forest.jpeg)
   background-repeat: no;
   background-size: cover; */
+  background-color: #313536;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.panel-heading {
+  background-color: white;
 }
 
 .panel {
   float: right;
   width: 70%;
   z-index: 1;
-  height: 600px;
+  height: 480px;
+  background-color: #757C79;
 }
 
 .special {
