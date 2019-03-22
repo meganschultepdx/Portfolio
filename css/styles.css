@@ -18,6 +18,7 @@ h1 {
 .panel {
   float: right;
   width: 70%;
+  z-index: 1;
 }
 
 .jumbotron {
