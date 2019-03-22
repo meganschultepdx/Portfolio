@@ -60,13 +60,17 @@ ul {
 
 }
 
+.chunk {
+  font-size: 24px;
+
+}
 
 /* #outside {
 height: 200px;
 background: blue;
 } */
 
-ol{
+ol {
   font-size: 24px;
 }
 
