@@ -14,3 +14,12 @@ h1 {
   background-color: tan;
   height: 100%;
 }
+
+.panel {
+  float: right;
+  width: 70%;
+}
+
+.jumbotron {
+  height: 252px;
+}
