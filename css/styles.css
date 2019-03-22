@@ -60,6 +60,7 @@ ul {
 
 }
 
+
 /* #outside {
 height: 200px;
 background: blue;
@@ -88,6 +89,6 @@ ol{
 
 }
 
-.interestpics {
-  height: 20px;
+#interestpics {
+  width: auto;
 }
