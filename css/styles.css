@@ -35,7 +35,7 @@ h2 {
 }
 
 h3  {
-  color: #5D5C55;
+  color: #4d0000;
   padding-left: 100px;
   font-size: 80px;
   float: right;
@@ -55,12 +55,13 @@ h3  {
 
 .special {
   font-weight: bold;
-  color: #3E4773;
+  color: #4d0000;
+  font-size: 20px;
 }
 
 .projects {
   align: center;
-  color: #8189B3;
+  /* color: darkgrey; */
   list-style-type: none;
   padding-right: 29px;
 }
