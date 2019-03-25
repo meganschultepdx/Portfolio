@@ -32,6 +32,7 @@ h2 {
   background-size: cover;
   background-repeat: no-repeat;
   height: 252px;
+  z-index: -1;
 }
 
 h3  {
@@ -53,10 +54,8 @@ h3  {
   height: 450px;
   background-color: #757C79;
   opacity: .9;
-}
-
-.panel-body {
   word-break: break-all;
+  overflow: scroll;
 }
 
 .special {
@@ -107,8 +106,9 @@ ol {
 } */
 
 #last {
-  height: 150px;
+  height: 200px;
   width: 100%;
   padding: 0 100 0 100;
   opacity: 10;
+  background-color: #3c3f3e;
 }
