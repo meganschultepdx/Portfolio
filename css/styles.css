@@ -44,6 +44,7 @@ h3  {
 
 .panel-heading {
   background-color: white;
+  height: 75px;
 }
 
 .panel {
@@ -52,6 +53,10 @@ h3  {
   height: 450px;
   background-color: #757C79;
   opacity: .9;
+}
+
+.panel-body {
+  word-break: break-all;
 }
 
 .special {
